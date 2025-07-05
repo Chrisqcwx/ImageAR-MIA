@@ -1,6 +1,8 @@
 # ImageAR-MIA
 ACM MM 2025: ICAS: Detecting Training Data from Autoregressive Image Generative Models
 
+**Arxiv** and **Citation** will be released in 2 weeks.
+
 ## Usage
 
 Get the VAR repository:
