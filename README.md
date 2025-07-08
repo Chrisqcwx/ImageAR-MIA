@@ -1,7 +1,8 @@
-# ImageAR-MIA
-ACM MM 2025: ICAS: Detecting Training Data from Autoregressive Image Generative Models
+# ICAS: Detecting Training Data from Autoregressive Image Generative Models
 
-**Arxiv** and **Citation** will be released in 2 weeks.
+ACM MM 2025
+
+[arxiv](https://arxiv.org/abs/2507.05068)
 
 ## Usage
 
@@ -22,4 +23,15 @@ python icas.py
 ```
 
 
-
+## Citation
+```
+@misc{yu2025icas,
+      title={ICAS: Detecting Training Data from Autoregressive Image Generative Models}, 
+      author={Hongyao Yu and Yixiang Qiu and Yiheng Yang and Hao Fang and Tianqu Zhuang and Jiaxin Hong and Bin Chen and Hao Wu and Shu-Tao Xia},
+      year={2025},
+      eprint={2507.05068},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.05068}, 
+}
+```
